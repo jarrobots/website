@@ -15,7 +15,7 @@ public class HelloServlet extends HttpServlet {
 
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException, ServletException {
         request.getRequestDispatcher("/diva.jsp").forward(request,response);
-        request.getSession().setAttribute("list", );
+        request.getSession().setAttribute("list", getList(response));
     }
 
     public void destroy() {
