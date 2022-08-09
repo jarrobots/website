@@ -9,9 +9,11 @@
 <html>
 <head>
     <title>Title</title>
-    <%! Question question = request%>
 </head>
 <body>
+<%@ page isELIgnored="false" %>
+<% String name = request.getSession().getAttribute("List").toString();%>
+<p>Test:<%=name%></p>
 <div id=guestion">
 </div>
 <fieldset>

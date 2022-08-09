@@ -14,21 +14,23 @@ public class HelloServlet extends HttpServlet {
     }
 
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException, ServletException {
+        String s = "n";
+        Optional<ArrayList<Question>> optional = getList();
+        request.getSession().setAttribute("List", optional);
+        //request.getSession().setAttribute("test","ok");
         request.getRequestDispatcher("/diva.jsp").forward(request,response);
-        request.getSession().setAttribute("list", getList(response));
     }
 
     public void destroy() {
     }
 
-    private Optional<ArrayList<Question>> getList(HttpServletResponse response) throws IOException {
+    private Optional<ArrayList<Question>> getList() {
 
         try {
-            FileReader fileReader = new FileReader("x");
+            FileReader fileReader = new FileReader("File.txt");
              return Optional.of(fileReader.getQuestions());
         }
         catch(FileNotFoundException e){
-            response.sendRedirect("/error.jsp");
             return Optional.empty();
         }
     }

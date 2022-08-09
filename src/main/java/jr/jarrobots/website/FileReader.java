@@ -32,7 +32,7 @@ public class FileReader {
         return QuestionList;
     }
     @Override
-    public void finalize(){
+    protected void finalize(){
         scanner.close();
     }
 
