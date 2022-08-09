@@ -14,7 +14,6 @@ public class HelloServlet extends HttpServlet {
     }
 
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException, ServletException {
-        String s = "n";
         Optional<ArrayList<Question>> optional = getList();
         request.getSession().setAttribute("List", optional);
         //request.getSession().setAttribute("test","ok");
