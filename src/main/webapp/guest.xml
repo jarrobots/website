@@ -1,0 +1,364 @@
+<diva>
+    <questions section="A1" segment="1">
+        <question>Robi Pani/Pan niedbałe błędy.</question>
+        <question>Musi Pani/Pan pracować powoli, aby unikać popełniania błędów.</question>
+        <question>Instrukcje czyta Pani/Pan pobieżnie.</question>
+        <question>Praca wymagająca dokładności przychodzi Pani/Panu z trudem.</question>
+        <question>Zużywa Pani/Pan zbyt dużo czasu na dopracowanie szczegółów.</question>
+        <question>Potrzeba skupienia się na szczegółach utrudnia Pani/Panu dokończenie pracy.</question>
+        <question>Pracuje Pani/Pan zbyt szybko i dlatego popełnia Pani/Pan błędy.</question>
+    </questions>
+    <questions section="A1" segment="2">
+        <question>Zadania w szkole i prace domowe wykonywał/a Pani/Pan niedbale.</question>
+        <question>Robił/a Pani/Pan błędy bo niedokładnie czytał/a Pani/Pan polecenia.</question>
+        <question>Nie odpowiadał/a Pani/Pan na pytania w testach, bo niepoprawnie je Pani/Pan czytał/a.</question>
+        <question>Zdarzało się Pani/Panu opuszczać drugą stronę testu podczas klasówki.</question>
+        <question>Inni komentowali niedbały styl Pani/Pana pracy.</question>
+        <question>Nie sprawdzał/a Pani/Pan poprawności swoich odpowiedzi podczas rozwiązywania zadań domowych.</question>
+        <question>Potrzebował/a Pani/Pan dużo czasu na zadania, które wymagały szczegółów.</question>
+    </questions>
+    <questions section="A2" segment="1">
+        <question>Nie potrafi Pani/Pan dłużej się skupić się na danym zadaniu.*</question>
+        <question>Szybko staje się Pani/Pan rozkojarzona/y, bo zajmują Panią/Pana własne myśli i skojarzenia.</question>
+        <question>Ma Pani/Pan problemy z doczytaniem do końca książki lub obejrzeniem filmu w całości*</question>
+        <question>Szybko traci Pani/Pan zainteresowanie.*</question>
+        <question>Zadaje Pani/Pan pytania na temat, który był już wcześniej przedyskutowany.</question>
+    </questions>
+    <questions section="A2" segment="2">
+        <question>Miał/a Pani/Pan problemy ze skupieniem się na pracach szkolnych.</question>
+        <question>Miał/a Pani/Pan problemy ze skupieniem się na grach.*</question>
+        <question>Był/a Pani/Pan roztargniony, rozkojarzony.</question>
+        <question>Miał/a Pani/Pan problemy z koncentracją.*</question>
+        <question>Otoczenie i zadania musiały być bardzo uporządkowane żeby zapobiec roztargnieniu (rozkojarzeniu).</question>
+        <question>Tracił/a Pani/Pan szybko zainteresowanie podejmowanymi aktywnościami.*</question>
+    </questions>
+    <questions section="A3" segment="1">
+        <question>Sprawia Pani/Pan wrażenie roztargnionego i nieobecnego.</question>
+        <question>Ma Pani/Pan problemy ze skoncentrowaniem się na rozmowie, którą właśnie Pani/Pan prowadzi.</question>
+        <question>Często nie wie Pani/Pan, o czym właśnie się rozmawiało.</question>
+        <question>Często przeskakuje Pani/Pan z tematu na temat w trakcie rozmowy.</question>
+        <question>Słyszy Pani/Pan często, że jest Pani/Pan nieobecna/y myślami.</question>
+    </questions>
+    <questions section="A3" segment="2">
+        <question>Często nie wiedział/a Pani/Pan, co rodzice bądź nauczyciele do Pani/Pana mówili.</question>
+        <question>Był/a Pani/Pan często myślami gdzie indziej lub zaabsorbowana/y czymś innym.</question>
+        <question>Słuchał/a Pani/Pan tego, co inni mówili, dopiero kiedy podnosili głos, bądź kiedy miał/a Pani/Pan z nimi kontakt wzrokowy.</question>
+        <question>Trzeba było do Pani/Pana kilka razy mówić to samo.</question>
+        <question>Pytania trzeba było Pani/Panu często powtarzać kilka razy.l</question>
+    </questions>
+    <questions section="A4" segment="1">
+        <question>Robi Pani/Pan kilka rzeczy na raz, bez dokończenia żadnej z nich.</question>
+        <question>Ma Pani/Pan kłopoty z dokończeniem pracy w momencie, gdy przestaje ona być nowym wyzwaniem.</question>
+        <question>Aby wykonać pracę, musi Pani/Pan mieć jasny termin jej ukończenia.</question>
+        <question>Ma Pani/Pan problemy z prowadzeniem domowych rachunków i korespondencji.</question>
+        <question>Ma Pani/Pan problemy z trzymaniem się instrukcji (np. instrukcji obsługi).</question>
+    </questions>
+    <questions section="A4" segment="2">
+        <question>Miał/a Pani/Pan kłopoty z wykonywaniem poleceń.</question>
+        <question>Miał/a Pani/Pan kłopoty z zadaniami, które składały się z kilku elementów</question>
+        <question>Zostawiał/a Pan/Pani zadania niedokończone.</question>
+        <question>Nie kończył/a Pani/Pan albo nie oddawał/a Pani/Pan pracy domowej do sprawdzenia.</question>
+        <question>Otoczenie i zadania musiały być bardzo dobrze uporządkowane, żeby mogła/mógł Pani/Pan dokończyć swoje zadania.</question>
+    </questions>
+    <questions section="A5" segment="1">
+        <question>Ma Pani/Pan kłopoty z rozplanowaniem codziennych zajęć.</question>
+        <question>W Pańskim domu / miejscu pracy panuje bałagan.</question>
+        <question>Planuje Pani/Pan zbyt wiele na raz.</question>
+        <question>Często zdarza się Pani/Panu zaplanować dwie rzeczy na ten sam moment.</question>
+        <question>Spóźnia się Pani/Pan.</question>
+        <question>Nie umie Pani/Pan dobrze korzystać z rozkładu zajęć.</question>
+        <question>Mała elastyczność działań z powodu potrzeby trzymania się powziętych planów.</question>
+        <question>Nie ma Pani/Pan poczucia czasu.</question>
+        <question>Robi Pani/Pan różne plany, których się Pani/Pan potem nie trzyma.</question>
+        <question>Potrzebuje Pani/Pan pomocy innych osób, żeby zaprowadzić porządek w swoich sprawach.</question>
+    </questions>
+    <questions section="A5" segment="2">
+        <question>Miał/a Pani/Pan problemy, żeby być gotowym na czas.</question>
+        <question>Miał/a Pani/Pan bałagan w pokoju i na swoim biurku.</question>
+        <question>Miał/a Pani/Pan problemy z samodzielną zabawą.</question>
+        <question>Miał/a Pani/Pan problemy z rozplanowaniem swoich obowiązków lub pracy domowej.</question>
+        <question>Robił/a Pani/Pan trzy rzeczy na raz.</question>
+        <question>Spóźniał/a się Pani/Pan.</question>
+        <question>Nie miał/a Pani/Pan poczucia czasu.</question>
+        <question>Miał/a Pani/Pan problemy, żeby zająć sie samym/samą sobą.</question>
+    </questions>
+    <questions section="A6" segment="1">
+        <question>Robi Pani/Pan najpierw to, co jest najłatwiejsze albo najfajniejsze.</question>
+        <question>Nudne albo trudne zadania odkłada Pani/Pan na koniec.</question>
+        <question>Odkłada Pani/Pan rzeczy do zrobienia na później, tak że nie dotrzymuje Pani/Pan terminów.</question>
+        <question>Unika Pan/Pani prac monotonnych, takich jak zarządzanie.</question>
+        <question>Nie lubi Pani/Pan czytać, bo wiąże się to z dużym wysiłkiem umysłowym.</question>
+        <question>Unika Pani/Pan prac, które wymagają skupienia.</question>
+    </questions>
+    <questions section="A6" segment="2">
+        <question>Unikał/a Pani/Pan odrabiania prac domowych albo Pani/Pan tego bardzo nie lubił/a.</question>
+        <question>Mało Pani/Pan czytał/a i nie miał/a Pani/Pan na to ochoty, bo kosztowało to Panią/Pana za dużo wysiłku umysłowego.</question>
+        <question>Unikał/a Pani/Pan zadań, które wymagały dużo skupienia.</question>
+        <question>Nie lubił/a Pani/Pan przedmiotów, które wymagały skupienia.</question>
+        <question>Nudne albo trudne zadania odkładał/a Pani/Pan na później.</question>
+    </questions>
+    <questions section="A7" segment="1">
+        <question>Zdarza się Pani/Panu zgubić portfel, klucze albo telefon.</question>
+        <question>Zapomina Pani/Pan o swoich rzeczach.</question>
+        <question>Gubi Pani/Pan materiały potrzebne w pracy.</question>
+        <question>Traci Pani/Pan dużo czasu na szukanie swoich rzeczy.</question>
+        <question>Jest Pani/Pan w panice, kiedy inne osoby przekładają Pańskie rzeczy.</question>
+        <question>Chowa Pani/Pan rzeczy nie tam, gdzie trzeba.</question>
+        <question>Gubi Pani/Pan notatki, numery telefonów i inne dane.</question>
+    </questions>
+    <questions section="A7" segment="2">
+        <question>Gubił/a Pani/Pan zeszyty, długopisy, kostium gimnastyczny i inne przedmioty.</question>
+        <question>Gubił/a Pani/Pan zabawki, ubrania czy też pracę domową.</question>
+        <question>Tracił/a Pani/Pan dużo czasu na szukanie swoich rzeczy.</question>
+        <question>Wpadał/a Pani/Pan w panikę, kiedy inne osoby przekładały Pańskie rzeczy.</question>
+        <question>Dostawał/a Pani/Pan uwagi od rodziców lub nauczycieli w związku z gubieniem przez Panią/Pana przedmiotów.</question>
+    </questions>
+    <questions section="A8" segment="1">
+        <question>Ma Pani/Pan trudności z odcięciem się od bodźców zewnętrznych.</question>
+        <question>Ma Pani/Pan trudności z ponownym skupieniem się, jeśli coś Panią/Pana wcześniej rozproszy.</question>
+        <question>Dźwięki i zdarzenia łatwo Panią/Pana rozpraszają.</question>
+        <question>Nie może Pani/Pan oprzeć się słuchaniu rozmów innych osób.</question>
+        <question>Ma Pani/Pan trudności z rozróżnieniem informacji potrzebnych od niepotrzebnych.</question>
+    </questions>
+    <questions section="A8" segment="2">
+        <question>W szkole często patrzył/a Pani/Pan się w okno.</question>
+        <question>Szybko się Pani/Pan rozpraszał/a.</question>
+        <question>Miał/a Pani/Pan trudności z ponownym skupieniem się, jeśli coś Panią/Pana wcześniej rozproszyło.</question>
+    </questions>
+    <questions section="A9" segment="1">
+        <question>Zapomina Pani/Pan o spotkaniach, albo o innych obowiązkach.</question>
+        <question>Zapomina Pani/Pan wziąć ze sobą klucze albo telefon.</question>
+        <question>Trzeba Pani/Panu często przypominać o umowach albo spotkaniach.</question>
+        <question>Musi Pani/Pan czasem wrócić do domu po zapomniane rzeczy.</question>
+        <question>Musi Pani/Pan trzymać się rutyny, żeby nie zapominać o różnych rzeczach.</question>
+        <question>Zapomina Pani/Pan zapisywać listę zadań do wykonania albo jeśli Pani/Pan je zapisze, to zapomina Pani/Pan to potem sprawdzić.</question>
+    </questions>
+    <questions section="A9" segment="2">
+        <question>Zapominał/a Pani/Pan, co miał/a Pani/Pan zrobić.</question>
+        <question>Trzeba było Pani/Panu często przypominać o różnych rzeczach.</question>
+        <question>W połowie wykonywania zadania zapominał/a Pani/Pan, co miał/a Pani/Pan właściwie zrobić.</question>
+        <question>Zapominał/a Pani/Pan spakować odpowiednie przybory szkolne.</question>
+        <question>Zostawiał/a Pani/Pan rzeczy w szkole albo u kolegów w domu.</question>
+    </questions>
+    <questions section="H1" segment="1">
+        <question>Ma Pani/Pan problemy z usiedzeniem w miejscu.</question>
+        <question>Wykonuje Pani/Pan niespokojne ruchy nogami.</question>
+        <question>Bawi się Pani/Pan długopisem lub innymi przedmiotami, które są pod ręką.</question>
+        <question>Obgryza Pani/Pan paznokcie albo bawi się włosami.</question>
+        <question>Może Pani/Pan zmusić się do ograniczenia ruchliwości, ale to powoduje wzrost napięcia wewnętrznego.</question>
+    </questions>
+    <questions section="H1" segment="2">
+        <question>Słyszał/a Pani/Pan często „siedź spokojnie”;Machał/a Pani/Pan często nogami.</question>
+        <question>Bawił/a się Pani/Pan długopisem lub innymi przedmiotami, które były pod ręką.</question>
+        <question>Obgryzał/a Pani/Pan paznokcie albo bawił/a się nerwowo włosami.</question>
+        <question>Nie potrafił/a Pani/Pan normalnie usiedzieć na krześle.</question>
+        <question>Mogła/mógł Pani/Pan zmusić się do ograniczenia ruchliwości, ale to powodowało wzrost napięcia wewnętrznego.</question>
+    </questions>
+    <questions section="H2" segment="1">
+        <question>Unika Pani/Pan zebrań, odczytów, prezentacji, chodzenia do kościoła itp.</question>
+        <question>Woli Pani/Pan chodzić niż siedzieć.</question>
+        <question>Nie usiedzi Pani/Pan dłużej w miejscu, jest Pani/Pan zawsze w ruchu.</question>
+        <question>Czuje się Pani/Pan spięty, jeśli zmusza się Panią/Pana do spokojnego siedzenia.</question>
+        <question>Wymyśla Pani/Pan różne powody, żeby tylko móc chodzić.</question>
+    </questions>
+    <questions section="H2" segment="2">
+        <question>Wstawał/a Pani/Pan z miejsca w trakcie posiłków bądź w trakcie lekcji.</question>
+        <question>Kosztowało to Panią/Pana dużo wysiłku, żeby spokojnie siedzieć w trakcie lekcji bądź w czasie posiłków.</question>
+        <question>Często zwracano Pani/Panu uwagę, że ma Pani/Pan wrócić na miejsce.</question>
+        <question>Miał/a Pani/Pan różne pomysły na to, żeby tylko móc chodzić.</question>
+    </questions>
+    <questions section="H3" segment="1">
+        <question>Czuje się Pani/Pan niespokojny/a lub rozbiegany/a.</question>
+        <question>Ma Pani/Pan cały czas poczucie, że musi Pani/Pan czymś być zajęty/a.</question>
+        <question>Trudno się Pani/Panu odprężyć.</question>
+    </questions>
+    <questions section="H3" segment="2">
+        <question>Był/a Pani/Pan ciągle „w biegu”.</question>
+        <question>Wspinał/a się Pani/Pan na meble i skakał/a po kanapach.</question>
+        <question>Wspinał/a się Pani/Pan na drzewa.</question>
+        <question>Miał/a Pani/Pan poczucie wewnętrznego niepokoju.</question>
+    </questions>
+    <questions section="H4" segment="1">
+        <question>Próbuje Pani/Pan mówić bądź rozmawiać w sytuacjach, gdzie nie jest to dobrze widziane.</question>
+        <question>W sytuacjach towarzyskich chce Pani/Pan grać pierwsze skrzypce.</question>
+        <question>Często jest Pani/Pan hałaśliwa/y, niezależnie od sytuacji.</question>
+        <question>Jest Pani/Panu trudno zachować spokój w trakcie różnych zajęć.</question>
+        <question>Ma Pani/Pan problemy z mówieniem cicho.</question>
+    </questions>
+    <questions section="H4" segment="2">
+        <question>Był/a Pani/Pan hałaśliwy w trakcie zabaw bądź w czasie lekcji.</question>
+        <question>Nie potrafił/a Pani/Pan spokojnie oglądać telewizji czy filmu.</question>
+        <question>Często uciszano bądź uspakajano Panią/Pana.</question>
+        <question>W sytuacjach towarzyskich chciał/a Pani/Pan grać pierwsze skrzypce.</question>
+    </questions>
+    <questions section="H5" segment="1">
+        <question>Jest Pani/Pan cały czas czymś zajęta/y.</question>
+        <question>Rozpiera Panią/Pana energia, nie zatrzymuje się Pani/Pan ani na chwilę.</question>
+        <question>Przekracza Pani/Pan swoje ograniczenia.</question>
+        <question>Trudno jest Pani/Panu „odpuścić”.</question>
+        <question>Czuje się Pani/Pan „jak nakręcona/y”.</question>
+    </questions>
+    <questions section="H5" segment="2">
+        <question>Cały czas Pani/Pan coś robił/a.</question>
+        <question>W szkole i w domu był/a Pani/Pan zawsze bardzo aktywny/a.</question>
+        <question>Marudził/a Pani/Pan, chciał/a Pani/Pan postawić na swoim, przesadzał/a Pani/Pan.</question>
+        <question>Rozpierała Panią/Pana energia.</question>
+    </questions>
+    <questions section="H6" segment="1">
+        <question>Jest Pani/Pan tak zaabsorbowana/y swoimi wypowiedziami, że inne osoby to męczy.</question>
+        <question>Mówią o Pani/Panu „gaduła”.</question>
+        <question>Jest Pani/Panu trudno przestać mówić.</question>
+        <question>Ma Pani/Pan skłonności, żeby za dużo mówić.</question>
+        <question>Nie daje Pani/Pan innym dojść do głosu.</question>
+        <question>Potrzebuje Pani/Pan zawsze wielu słów, żeby wyrazić to, co chce Pani/Pan powiedzieć.</question>
+    </questions>
+    <questions section="H6" segment="2">
+        <question>Był/a Pani/Pan znany jako „gaduła”.</question>
+        <question>Nauczyciele i rodzice prosili Panią/Pana, żeby już był/a Pani/Pan cicho.</question>
+        <question>Dostawał/a Pani/Pan uwagi w dzienniczku, że za dużo Pani/Pan rozmawia.</question>
+        <question>Karano Panią/Pana za gadulstwo.</question>
+        <question>Przeszkadzł/a Pani/Pan innym w ich pracy szkolnej, bo ciągle coś Pani/Pan mówił/a.</question>
+        <question>Nie dawał/a Pani/Pan innym dojść do głosu.</question>
+    </questions>
+    <questions section="H7" segment="1">
+        <question>Mówi Pani/Pan, co Pani/Panu ślina na język przyniesie, mówi Pani/Pan, co Pani/Panu na sercu leży.</question>
+        <question>Wypowiada Pani/Pan nieprzemyślane uwagi.</question>
+        <question>Odpowiada Pani/Pan na pytania innych, nie czekając aż skończą mówić.</question>
+        <question>Dopowiada Pani/Pan zdania innych osób.</question>
+        <question>Inni uważają Panią/Pana za pozbawioną/ego taktu.</question>
+    </questions>
+    <questions section="H7" segment="2">
+        <question>Mówił/a Pani/Pan, co Pani/Panu ślina na język przyniosła, mówił/a Pani/Pan szybciej niż Pani/Pan myślał/a.</question>
+        <question>Chciał/a Pani/Pan zawsze jako pierwszy/a dać odpowiedź na pytania w szkole.</question>
+        <question>Dawał/a Pani/Pan odpowiedź jako pierwszy/a, nawet jeśli nie była to odpowiedź poprawna.</question>
+        <question>Przerywał/a Pani/Pan, kiedy inni mówili.</question>
+        <question>Ranił/a Pani/Pan innych swoim zachowaniem.</question>
+    </questions>
+    <questions section="H8" segment="1">
+        <question>Trudno Pani/Panu wystać w kolejce, przepycha się Pani/ Pan do przodu.</question>
+        <question>Nie ma Pani/Pan cierpliwości, „stojąc w korku” na drodze.</question>
+        <question>Trudno Pani/Panu czekać na swoją kolej, żeby wziąć udział w rozmowie.</question>
+        <question>Jest Pani/Pan niecierpliwy.</question>
+        <question>Często zmienia Pani/Pan partnerów albo pracę, bo Panią/Pana niecierpliwią.</question>
+    </questions>
+    <questions section="H8" segment="2">
+        <question>Miał/a Pani/Pan trudności z czekaniem na swoją kolej w trakcie gier i zabaw.</question>
+        <question>Miał/a Pani/Pan problemy z czekaniem na swoją kolej w klasie.</question>
+        <question>Chciał/a Pani/Pan grać pierwsze skrzypce.</question>
+        <question>Szybko tracił/a Pani/Pan cierpliwość.</question>
+        <question>Przechodził/a Pani/Pan przez ulicę, nie patrząc, czy coś jedzie.</question>
+    </questions>
+    <questions section="H9" segment="1">
+        <question>Wtrąca się Pani/Pan w sprawy innych.</question>
+        <question>Przerywa Pani/Pan, kiedy ktoś mówi.</question>
+        <question>Bez pytania przeszkadza Pani/Pan, innym osobom w ich zajęciach.</question>
+        <question>Dostaje Pani/Pan uwagi na temat wtrącania się w sprawy innych.</question>
+        <question>Przekracza Pani/Pan granice tolerancji innych osób.</question>
+        <question>Ma Pani/Pan zdanie na każdy temat i wygłasza je Pani/Pan, nawet niepytany/a.</question>
+    </questions>
+    <questions section="H9" segment="2">
+        <question> Wpychał/a się Pani/Pan do zabaw innych dzieci już w trakcie ich trwania.</question>
+        <question>Przerywał/a Pani/Pan rozmowy innych osób.</question>
+        <question>Reagował/a Pani/Pan na wszystko, co się działo dookoła.</question>
+        <question>Nie umiał/a Pani/Pan czekać.</question>
+    </questions>
+    <questions section="C1" segment="1">
+        <question>Nie ukończył/a Pani/Pan szkoły potrzebnej do wykonywania Pańskiej pracy.</question>
+        <question>Wykonuje Pani/Pan pracę poniżej swoich możliwości.</question>
+        <question>Szybko nudzi się Pani/Pan w swoim miejscu pracy.</question>
+        <question>Często zmienia Pani/Pan miejsce pracy.</question>
+        <question>Ma Pani/Pan problemy z pracą administracyjną / z planowaniem.</question>
+        <question>Nie awansuje Pani/Pan.</question>
+        <question>Nie osiąga Pani/Pan oczekiwanych rezultatów.</question>
+        <question>Odchodzi Pani/Pan z pracy skłócony albo zostaje Pani/Pan zwolniony/a.</question>
+        <question>Wskutek objawów otrzymuje Pani/Pan zasiłek chorobowy/rehabilitacyjny.</question>
+        <question>Pani/Pana wysoka inteligencja sprawia, że stopień doświadczanego przez Panią/Pana upośledzenia funkcjonalnego jest niewielki.</question>
+        <question>Dzięki możliwości oparcia się na zewnętrznej strukturze stopień doświadczanego przez Panią/Pana upośledzenia funkcjonalnego jest niewielki.</question>
+    </questions>
+    <questions section="C1" segment="2">
+        <question>Była Pani/Pan w szkole o niższym poziomie niż można by było się spodziewać na podstawie Pańskiej inteligencji.</question>
+        <question>Powtarzał/a Pani/Pan klasy, bo miał/a Pani/Pan problemy z koncentracją.</question>
+        <question>Nie kończył/a Pani/Pan szkół, wyrzucano Panią/Pana ze szkoły.</question>
+        <question>Potrzebował/a Pani/Pan więcej czasu na skończenie szkoły niż przeciętnie;</question>
+        <question>Ukończenie szkoły na Pańskim poziomie inteligencji kosztowało Panią/Pana wiele trudu.</question>
+        <question>Miał/a Pani/Pan problemy z pracą domową.</question>
+        <question>Został/a Pani/Pan skierowana/y do szkoły specjalnej z powodu Pańskich objawów.</question>
+        <question>Otrzymywał/a Pani/Pan krytyczne uwagi od nauczycieli na temat Pańskiego zachowania i koncentracji uwagi.</question>
+        <question>Pani/Pana wysoka inteligencja sprawiała, że stopień doświadczanego przez Panią/Pana upośledzenia funkcjonalnego był niewielki.</question>
+        <question>Dzięki możliwości oparcia się na zewnętrznej strukturze stopień doświadczanego przez Panią/Pana upośledzenia funkcjonalnego był niewielki.</question>
+    </questions>
+    <questions section="C2" segment="1">
+        <question>Szybko nudzi Panią/Pana bycie w związku z danym partnerem.</question>
+        <question>Wchodzi Pani/Pan w związki impulsuwnie, podobnie jak i kończy je Pani/Pan.</question>
+        <question>Z powodu Pańskich objawów trudno Pani/Panu wejść w równoprawny związek.</question>
+        <question>W Pańskim związku często są kłótnie, problemy, brakuje intymnych kontaktów.</question>
+        <question>Rozwiódł/odła się Pani/Pan, powodem były Pańskie objawy.</question>
+        <question>Ma Pani/Pan problemy w życiu seksualnym.</question>
+        <question>Ma Pani/Pan problemy wychowawcze spowodowane Pańskimi objawami.</question>
+        <question>Ma Pani/Pan problemy w prowadzeniu domu/swojej administracji.</question>
+        <question>Ma Pani/Pan problemy finansowe / problemy z hazardem.</question>
+        <question>Boi się Pani/Pan wchodzić w związki z innymi.</question>
+    </questions>
+    <questions section="C2" segment="2">
+        <question>Kłócił/a się Pani/Pan często z rodzeństwem.</question>
+        <question>Był/a Pani/Pan często karany bądź bity.</question>
+        <question>Rzadko kontaktował/a się Pani/Pan z dalszą rodziną z powodu kłótni.</question>
+        <question>Dłużej niż to przyjęte potrzebował/a Pani/Pan wsparcia rodziców.</question>
+    </questions>
+    <questions section="C3" segment="1">
+        <question>Szybko nudzi się Pani/Pan kontaktami z innymi ludźmi.</question>
+        <question>Ma Pani/Pan problemy z utrzymaniem dobrych kontaktów z innymi.</question>
+        <question>Zdarzają się Pani/Panu kłótnie z powodu wzajemnego niezrozumienia.</question>
+        <question>Jest Pani/Panu trudno nawiązywać nowe kontakty.</question>
+        <question>Złe doświadczenia powodują, że nie wyraża Pani/Pan swoich przekonań i potrzeb.</question>
+        <question>Nie myśli Pani/Pan o innych (zapomina Pani/Pan złożyć życzenia imieninowe / nie oddzwania Pani/Pan / nie wie Pani/Pan, czym żyją inni).</question>
+    </questions>
+    <questions section="C3" segment="2">
+        <question>Miał/a Pani/Pan problemy z utrzymywaniem dobrych kontaktów.</question>
+        <question>Zdarzały się Pani/Panu kłótnie z powodu wzajemnego niezrozumienia.</question>
+        <question>Było Pani/Panu trudno nawiązywać nowe kontakty.</question>
+        <question>Złe doświadczenia powodowały, że nie wyrażał/a Pani/Pan swoich przekonań i potrzeb.</question>
+        <question>Miał/a Pani/Pan niewielu prawdziwych przyjaciół.</question>
+        <question>Często Pani/Panu dokuczano.</question>
+        <question>Był/a Pani/Pan poza grupą rówieśników.</question>
+        <question>Dokuczał/a Pani/Pan innym dzieciom.</question>
+    </questions>
+    <questions section="C4" segment="1">
+        <question>Nie potrafi się Pani/Pan odprężyć.</question>
+        <question>Żeby się odprężyć, musi Pani/Pan bardzo intensywnie uprawiać sport.</question>
+        <question>Często ma Pani/Pan kontuzje sportowe.</question>
+        <question>Bardzo Pani/Panu trudno doczytać do końca książkę lub obejrzeć film.</question>
+        <question>Ciągle coś Pani/Pan robi i przez to jest Pani/Pan przepracowana/y i przemęczona/y.</question>
+        <question>Zmienia Pani/Pan zainteresowania, bo Panią/Pana szybko nudzą.</question>
+        <question>Miewał/a Pani/Pan wypadki drogowe, odebrano Pani/Panu prawo jazdy za ryzykowną jazdę.</question>
+        <question>Lubi Pani/Pan ryzykowne i niebezpieczne zabawy, szuka Pani/Pan sensacji.</question>
+        <question>Ma Pani/Pan problemy z wymiarem sprawiedliwości.</question>
+        <question>Napady obżarstwa.</question>
+    </questions>
+    <questions section="C4" segment="2">
+        <question>Nie potrafił/a się Pani/Pan odprężyć.</question>
+        <question>Żeby się odprężyć, musiał/a Pani/Pan bardzo intensywnie uprawiać sport.</question>
+        <question>Często miał/a Pani/Pan kontuzje sportowe.</question>
+        <question>Bardzo Pani/Panu było trudno doczytać do końca książkę lub obejrzeć film.</question>
+        <question>Ciągle coś Pani/Pan robił/a i przez to był/a przemęczony/a.</question>
+        <question>Często zmieniał/a Pani/Pan zainteresowania, bo stare Panią/Pana nudziły.</question>
+        <question>Lubił/a Pani/Pan ryzykowne i niebezpieczne zabawy, szukał/a Pani/Pan sensacji.</question>
+        <question>Był/a Pani/Pan notowana/y na policji.</question>
+        <question>Napady obżarstwa.</question>
+    </questions>
+    <questions section="C5" segment="1">
+        <question>Często jest Pani/Pan niepewna/y siebie, bo otrzymuje Pani/ Pan krytyczne uwagi od innych.</question>
+        <question>Ma Pani/Pan negatywny wizerunek własny przez porażki, których w przeszłości doznał/a.</question>
+        <question>Pamięć o niepowodzeniach hamuje Panią/Pana przed zaczynaniem czegoś nowego.</question>
+        <question>Każda krytyka Panią/Pana druzgocze.</question>
+        <question>Jest Pani/Pan perfekcjonistą.</question>
+        <question>Objawy ADHD powodują, że często się Pani/Pan smuci.</question>
+    </questions>
+    <questions section="C5" segment="2">
+        <question>Często był/a Pani/Pan niepewny siebie, bo otrzymywał/a Pani/Pan krytyczne uwagi od innych.</question>
+        <question>Miał/a Pani/Pan negatywny wizerunek własny przez porażki, których w przeszłości Pani/Pan doznał/a.</question>
+        <question>Pamięć o niepowodzeniach hamowała Panią/Pana przed zaczynaniem czegoś nowego.</question>
+        <question>Każda krytyka Panią/Pana druzgotała.</question>
+        <question>Był/a Pani/Pan perfekcjonistką/ą.</question>
+    </questions>
+</diva>

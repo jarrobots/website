@@ -3,6 +3,7 @@ import java.io.FileNotFoundException;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashMap;
 import java.util.Scanner;
 
 public class FileReader {
@@ -19,13 +20,13 @@ public class FileReader {
     {
         String group;
         String quest;
-        ArrayList<String> ans =new ArrayList<>();
+        String des;
+        ArrayList <String> ans =new ArrayList<>();
         ArrayList<Question> QuestionList = new ArrayList<>();
         while(scanner.hasNextLine()){
             String[] string = scanner.nextLine().split(";");
             group = string[0];
             quest = string[1];
-            ans.addAll(Arrays.asList(string).subList(2, string.length));
             Question question = new Question(group, quest, ans);
             QuestionList.add(question);
         }
