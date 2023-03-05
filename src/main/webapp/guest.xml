@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <diva>
     <questions section="A1" segment="1">
         <question>Robi Pani/Pan niedbałe błędy.</question>
@@ -217,7 +218,7 @@
         <question>Nauczyciele i rodzice prosili Panią/Pana, żeby już był/a Pani/Pan cicho.</question>
         <question>Dostawał/a Pani/Pan uwagi w dzienniczku, że za dużo Pani/Pan rozmawia.</question>
         <question>Karano Panią/Pana za gadulstwo.</question>
-        <question>Przeszkadzł/a Pani/Pan innym w ich pracy szkolnej, bo ciągle coś Pani/Pan mówił/a.</question>
+        <question>Przeszkadzał/a Pani/Pan innym w ich pracy szkolnej, bo ciągle coś Pani/Pan mówił/a.</question>
         <question>Nie dawał/a Pani/Pan innym dojść do głosu.</question>
     </questions>
     <questions section="H7" segment="1">
@@ -289,7 +290,7 @@
     </questions>
     <questions section="C2" segment="1">
         <question>Szybko nudzi Panią/Pana bycie w związku z danym partnerem.</question>
-        <question>Wchodzi Pani/Pan w związki impulsuwnie, podobnie jak i kończy je Pani/Pan.</question>
+        <question>Wchodzi Pani/Pan w związki impulsywnie, podobnie jak i kończy je Pani/Pan.</question>
         <question>Z powodu Pańskich objawów trudno Pani/Panu wejść w równoprawny związek.</question>
         <question>W Pańskim związku często są kłótnie, problemy, brakuje intymnych kontaktów.</question>
         <question>Rozwiódł/odła się Pani/Pan, powodem były Pańskie objawy.</question>

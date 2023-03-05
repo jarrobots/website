@@ -6,13 +6,13 @@ import java.util.*;
 public class Question {
     private final String name;
     private final String group;
-    private final ArrayList<String> answers;
+    private final String segment;
 
 
 
 
-    public Question( String group, String name, ArrayList<String> answers) {
-        this.answers = answers;
+    public Question( String group, String name, String segment) {
+        this.segment = segment;
         this.group = group;
         this.name = name;
     }
